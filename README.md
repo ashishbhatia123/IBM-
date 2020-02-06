@@ -28,7 +28,7 @@ C#
 	ADeoDotNet
 4thFeb
 	on4ThFEb
-	DemoApp 	--empty
+
 -----------------------------------------
 30Jan
 	IBMDemo
